@@ -1,7 +1,7 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
-# NAME HAREKRISHNAA M
-# DEP CSE
-# REG 212224040095
+# NAME : HAREKRISHNAA M
+# DEP : CSE
+# REG : 212224040095
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
 # ALGORITHM
@@ -83,7 +83,8 @@ int main() {
 
 ```
 # OUTPUT
-<img width="642" height="351" alt="image" src="https://github.com/user-attachments/assets/af95134a-7b5f-4ccb-9c41-1c077edeb78c" />
+<img width="1211" height="590" alt="image" src="https://github.com/user-attachments/assets/1ab2b915-a402-468f-ba88-a97928207e92" />
+
 
 # RESULT
 ## The lexical analyzer is implemented using lex and the output is verified.
