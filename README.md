@@ -1,6 +1,6 @@
 # Ex-2-GENERATION OF LEXICAL TOKENS LEX FLEX TOOL
 # NAME : HAREKRISHNAA M
-# DEP : CSE
+# DATE : 15/09/2025
 # REG : 212224040095
 # AIM
 ## To write a lex program to implement lexical analyzer to recognize a few patterns.
